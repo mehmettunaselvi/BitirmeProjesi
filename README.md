@@ -1,6 +1,6 @@
 # VGG19 Kullanarak Katarakt Teşhisi
 
-Bu proje, [Proje Adı]'nın detaylarını ve kullanımını içermektedir. Bitirme tezi kapsamında geliştirilmiştir.
+Bu proje, derin öğrenme kullanılarak Katarakt Teşhisi detaylarını ve kullanımını içermektedir. Bitirme tezi kapsamında geliştirilmiştir.
 
 ## İçindekiler
 
