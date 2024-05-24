@@ -1,4 +1,4 @@
-# VGG19 Kullanarak Katarakt Teşhisi
+# Proje Adı
 
 Bu proje, [Proje Adı]'nın detaylarını ve kullanımını içermektedir. Bitirme tezi kapsamında geliştirilmiştir.
 
